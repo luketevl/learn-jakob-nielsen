@@ -3,6 +3,7 @@ Learn Jakob Nielsen
 
 # LINKS
 - https://www.useronboard.com/
+- https://color.adobe.com/
 
 # HEURISTIC EVALUATION
 > Analysis for pattern recognition that aims to identify possible improvements in the interfaces, so that they are more intuitive and pleasant for the users.
